@@ -1,1 +1,1 @@
-# TipTapCal
+# TipTapCalTip Calculator simple mobile application
