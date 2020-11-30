@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="label_bill">Bill</string>
+    <string name="label_tip_percent">Tip</string>
+
+    <string name="amount_bill_hint">Enter Bill</string>
+    <string name="amount_tip_percent_hint">Enter Tip</string>
+    <string name="label_tip">Tip($)</string>
+    <string name="amount_tip"></string>
+    <string name="label_total">Total </string>
+    <string name="amount_total"></string>
+    <string name="button">Calculate</string>
+    <string name="red_line"></string>
+
+</resources>
